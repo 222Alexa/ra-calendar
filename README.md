@@ -97,3 +97,7 @@ return (
 При необходимости, можете воспользоваться библиотекой moment.js, установив её через npm (не забудьте, что это не dev-зависимость).
 
 Используйте расположенный в данном каталоге css-файл для стилизации.
+
+
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/5v1le3wmy9wvitgy/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-calendar/branch/main)
